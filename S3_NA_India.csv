@@ -1,0 +1,657 @@
+Accession,Release_Date,Species,Length,Nuc_Completeness,Geo_Location,USA,Host,Isolation_Source,Collection_Date,Year_Month
+NC_045512,2020-01-13T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29903,complete,China,,Homo sapiens,,2019-12,2019-12
+MT012098,2020-03-06T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29854,complete,India: Kerala State,,Homo sapiens,oronasopharynx,1/27/2020,2020-01
+MT050493,2020-03-06T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29851,complete,India: Kerala State,,Homo sapiens,oronasopharynx,1/31/2020,2020-01
+MT358637,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29903,complete,India: Rajkot,,Homo sapiens,,4/5/2020,2020-04
+MT415320,2020-04-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29901,complete,India,,Homo sapiens,,3/1/2020,2020-03
+MT415321,2020-04-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29903,complete,India,,Homo sapiens,,3/11/2020,2020-03
+MT415322,2020-04-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29892,complete,India,,Homo sapiens,,3/16/2020,2020-03
+MT415323,2020-04-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29891,complete,India,,Homo sapiens,,3/20/2020,2020-03
+MT416725,2020-05-01T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29866,complete,India,,Homo sapiens,oronasopharynx,4/10/2020,2020-04
+MT416726,2020-05-01T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29866,complete,India,,Homo sapiens,oronasopharynx,4/10/2020,2020-04
+MT435079,2020-05-06T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/13/2020,2020-04
+MT435080,2020-05-06T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/13/2020,2020-04
+MT435081,2020-05-06T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/13/2020,2020-04
+MT435082,2020-05-06T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/13/2020,2020-04
+MT435083,2020-05-06T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/7/2020,2020-04
+MT435084,2020-05-06T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/14/2020,2020-04
+MT435085,2020-05-06T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,4/22/2020,2020-04
+MT435086,2020-05-06T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Mansa,,Homo sapiens,,4/21/2020,2020-04
+MT451874,2020-05-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29801,complete,India: Surat,,Homo sapiens,,4/24/2020,2020-04
+MT451876,2020-05-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29798,complete,India: Surat,,Homo sapiens,,4/26/2020,2020-04
+MT451877,2020-05-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29801,complete,India: Surat,,Homo sapiens,,4/26/2020,2020-04
+MT451878,2020-05-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29801,complete,India: Surat,,Homo sapiens,,4/27/2020,2020-04
+MT451880,2020-05-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29801,complete,India: Surat,,Homo sapiens,,4/26/2020,2020-04
+MT451881,2020-05-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29801,complete,India: Ahmedabad,,Homo sapiens,,4/26/2020,2020-04
+MT451882,2020-05-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29801,complete,India: Ahmedabad,,Homo sapiens,,4/26/2020,2020-04
+MT451883,2020-05-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29801,complete,India: Ahmedabad,,Homo sapiens,,4/26/2020,2020-04
+MT451884,2020-05-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29801,complete,India: Ahmedabad,,Homo sapiens,,4/26/2020,2020-04
+MT451885,2020-05-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29801,complete,India: Ahmedabad,,Homo sapiens,,4/26/2020,2020-04
+MT451886,2020-05-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29801,complete,India: Ahmedabad,,Homo sapiens,,4/26/2020,2020-04
+MT451887,2020-05-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29801,complete,India: Ahmedabad,,Homo sapiens,,4/26/2020,2020-04
+MT451888,2020-05-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29801,complete,India: Ahmedabad,,Homo sapiens,,4/26/2020,2020-04
+MT451889,2020-05-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29801,complete,India: Ahmedabad,,Homo sapiens,,4/26/2020,2020-04
+MT451890,2020-05-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29801,complete,India: Ahmedabad,,Homo sapiens,,4/26/2020,2020-04
+MT457402,2020-05-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29892,complete,India: Hyderabad,,Homo sapiens,,3/24/2020,2020-03
+MT457403,2020-05-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29892,complete,India: Hyderabad,,Homo sapiens,,3/25/2020,2020-03
+MT467237,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/26/2020,2020-04
+MT467238,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT467239,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/26/2020,2020-04
+MT467240,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/30/2020,2020-04
+MT467241,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/26/2020,2020-04
+MT467242,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT467243,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/30/2020,2020-04
+MT467244,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/30/2020,2020-04
+MT467245,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT467246,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29801,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT467247,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT467248,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT467249,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT467250,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT467251,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT467252,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT467253,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT467254,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT467255,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/30/2020,2020-04
+MT467256,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT467257,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/30/2020,2020-04
+MT467258,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT467259,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Prantij,,Homo sapiens,,5/2/2020,2020-05
+MT467260,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Prantij,,Homo sapiens,,5/2/2020,2020-05
+MT467261,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Modasa,,Homo sapiens,,5/4/2020,2020-05
+MT467262,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Modasa,,Homo sapiens,,5/4/2020,2020-05
+MT467263,2020-05-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Dhansura,,Homo sapiens,,5/4/2020,2020-05
+MT477885,2020-05-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29899,complete,India,,Homo sapiens,,3/25/2020,2020-03
+MT481895,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/3/2020,2020-05
+MT481896,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/3/2020,2020-05
+MT481897,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Modasa,,Homo sapiens,,5/5/2020,2020-05
+MT481898,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Himatnagar,,Homo sapiens,,5/5/2020,2020-05
+MT481899,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Modasa,,Homo sapiens,,5/5/2020,2020-05
+MT481900,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,4/28/2020,2020-04
+MT481901,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Dahegam,,Homo sapiens,,4/28/2020,2020-04
+MT481902,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Dahegam,,Homo sapiens,,5/3/2020,2020-05
+MT481903,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Dahegam,,Homo sapiens,,5/3/2020,2020-05
+MT481904,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,4/25/2020,2020-04
+MT481905,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,5/2/2020,2020-05
+MT481906,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,4/27/2020,2020-04
+MT481907,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,4/26/2020,2020-04
+MT481908,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Mansa,,Homo sapiens,,4/28/2020,2020-04
+MT481909,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29780,complete,India: Modasa,,Homo sapiens,,5/5/2020,2020-05
+MT483553,2020-05-19T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Modasa,,Homo sapiens,,5/5/2020,2020-05
+MT483554,2020-05-19T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Modasa,,Homo sapiens,,5/5/2020,2020-05
+MT483555,2020-05-19T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29757,complete,India: Modasa,,Homo sapiens,,5/5/2020,2020-05
+MT483556,2020-05-19T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Modasa,,Homo sapiens,,5/5/2020,2020-05
+MT483557,2020-05-19T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29757,complete,India: Modasa,,Homo sapiens,,5/5/2020,2020-05
+MT483558,2020-05-19T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Modasa,,Homo sapiens,,5/5/2020,2020-05
+MT483559,2020-05-19T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Prantij,,Homo sapiens,,5/5/2020,2020-05
+MT483560,2020-05-19T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Modasa,,Homo sapiens,,5/5/2020,2020-05
+MT483702,2020-05-19T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29780,complete,India: Modasa,,Homo sapiens,,5/5/2020,2020-05
+MT496972,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT496973,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT496974,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT496975,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/29/2020,2020-04
+MT496976,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/3/2020,2020-05
+MT496977,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/3/2020,2020-05
+MT496979,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Ahmedabad,,Homo sapiens,,5/5/2020,2020-05
+MT496980,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/3/2020,2020-05
+MT496981,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29816,complete,India: Ahmedabad,,Homo sapiens,,5/3/2020,2020-05
+MT496982,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/3/2020,2020-05
+MT496983,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/5/2020,2020-05
+MT496984,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29794,complete,India: Ahmedabad,,Homo sapiens,,5/3/2020,2020-05
+MT496985,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/5/2020,2020-05
+MT496986,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/5/2020,2020-05
+MT496987,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/4/2020,2020-05
+MT496988,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/3/2020,2020-05
+MT496989,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/3/2020,2020-05
+MT496990,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,4/29/2020,2020-04
+MT496991,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,4/27/2020,2020-04
+MT496992,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/3/2020,2020-05
+MT496993,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,4/29/2020,2020-04
+MT496994,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,4/29/2020,2020-04
+MT496995,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,4/29/2020,2020-04
+MT496996,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,5/2/2020,2020-05
+MT496997,2020-05-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,4/29/2020,2020-04
+MT509494,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/3/2020,2020-05
+MT509495,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Kodinar,,Homo sapiens,,5/10/2020,2020-05
+MT509496,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Botad,,Homo sapiens,,5/9/2020,2020-05
+MT509497,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Una,,Homo sapiens,,5/11/2020,2020-05
+MT509498,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Jamnagar,,Homo sapiens,,5/9/2020,2020-05
+MT509499,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Jamnagar,,Homo sapiens,,5/7/2020,2020-05
+MT509500,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Dahod,,Homo sapiens,,5/3/2020,2020-05
+MT509501,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Jamnagar,,Homo sapiens,,5/6/2020,2020-05
+MT509502,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Jamnagar,,Homo sapiens,,5/10/2020,2020-05
+MT509503,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Junagadh,,Homo sapiens,,5/9/2020,2020-05
+MT509504,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,5/6/2020,2020-05
+MT509505,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/11/2020,2020-04
+MT509506,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,4/27/2020,2020-04
+MT509507,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Una,,Homo sapiens,,5/10/2020,2020-05
+MT509508,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Jamnagar,,Homo sapiens,,5/5/2020,2020-05
+MT509509,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,4/11/2020,2020-04
+MT509510,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Una,,Homo sapiens,,5/10/2020,2020-05
+MT509511,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,4/28/2020,2020-04
+MT509512,2020-05-23T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Dahod,,Homo sapiens,,5/1/2020,2020-05
+MT509649,2020-05-24T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29793,complete,India: Vadodara,,Homo sapiens,,5/2/2020,2020-05
+MT509650,2020-05-24T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/2/2020,2020-05
+MT509651,2020-05-24T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/3/2020,2020-05
+MT509656,2020-05-24T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29798,complete,India: Vadodara,,Homo sapiens,,5/3/2020,2020-05
+MT509657,2020-05-24T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Dahod,,Homo sapiens,,5/3/2020,2020-05
+MT509658,2020-05-24T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Dahod,,Homo sapiens,,5/3/2020,2020-05
+MT509659,2020-05-24T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/3/2020,2020-05
+MT509959,2020-05-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Jamnagar,,Homo sapiens,,5/4/2020,2020-05
+MT539164,2020-05-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/2/2020,2020-05
+MT539165,2020-05-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/2/2020,2020-05
+MT539166,2020-05-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/2/2020,2020-05
+MT539167,2020-05-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/2/2020,2020-05
+MT539168,2020-05-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/2/2020,2020-05
+MT539169,2020-05-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/2/2020,2020-05
+MT539170,2020-05-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,4/28/2020,2020-04
+MT539171,2020-05-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/2/2020,2020-05
+MT539172,2020-05-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/2/2020,2020-05
+MT539173,2020-05-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/2/2020,2020-05
+MT539174,2020-05-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,4/27/2020,2020-04
+MT539175,2020-05-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/2/2020,2020-05
+MT539176,2020-05-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/2/2020,2020-05
+MT560656,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT560657,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT560667,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT560668,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT560669,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Himatnagar,,Homo sapiens,,5/16/2020,2020-05
+MT560670,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT560671,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT560672,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT560673,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Prantij,,Homo sapiens,,5/6/2020,2020-05
+MT560674,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT560675,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Himatnagar,,Homo sapiens,,5/16/2020,2020-05
+MT560677,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Khedbrahma,,Homo sapiens,,5/16/2020,2020-05
+MT560679,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT560680,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT560682,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT560689,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Bayad,,Homo sapiens,,5/5/2020,2020-05
+MT560690,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT560692,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT560693,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT560694,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Khedbrahma,,Homo sapiens,,5/17/2020,2020-05
+MT560704,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT560705,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Himatnagar,,Homo sapiens,,5/17/2020,2020-05
+MT560706,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Khedbrahma,,Homo sapiens,,5/17/2020,2020-05
+MT560827,2020-06-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Prantij,,Homo sapiens,,5/6/2020,2020-05
+MT576031,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576032,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576033,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576034,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,4/27/2020,2020-04
+MT576035,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/2/2020,2020-05
+MT576037,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/2/2020,2020-05
+MT576038,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,4/27/2020,2020-04
+MT576039,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,5/2/2020,2020-05
+MT576040,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576041,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576042,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576043,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576044,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576045,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576046,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576047,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576048,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576049,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576052,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576053,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576054,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576055,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576056,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576057,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576058,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576059,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576060,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576061,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29801,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT576529,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Himatnagar,,Homo sapiens,,5/18/2020,2020-05
+MT576530,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT576531,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/24/2020,2020-05
+MT576532,2020-06-08T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Himatnagar,,Homo sapiens,,5/18/2020,2020-05
+MT594112,2020-06-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,5/27/2020,2020-05
+MT607244,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,6/5/2020,2020-06
+MT607249,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Kadi,,Homo sapiens,,6/5/2020,2020-06
+MT607250,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Kadi,,Homo sapiens,,6/5/2020,2020-06
+MT607251,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,6/5/2020,2020-06
+MT607601,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,6/5/2020,2020-06
+MT607602,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Kalol,,Homo sapiens,,6/5/2020,2020-06
+MT607603,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/3/2020,2020-06
+MT607604,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/3/2020,2020-06
+MT607605,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/3/2020,2020-06
+MT607606,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/3/2020,2020-06
+MT607607,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/3/2020,2020-06
+MT607608,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/3/2020,2020-06
+MT607609,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/3/2020,2020-06
+MT607610,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,6/5/2020,2020-06
+MT607611,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/3/2020,2020-06
+MT607612,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,6/5/2020,2020-06
+MT607613,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Kalol,,Homo sapiens,,6/5/2020,2020-06
+MT607614,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/3/2020,2020-06
+MT607615,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/5/2020,2020-06
+MT607616,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Kalol,,Homo sapiens,,6/5/2020,2020-06
+MT607617,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/3/2020,2020-06
+MT607618,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/5/2020,2020-06
+MT607619,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/3/2020,2020-06
+MT607620,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/3/2020,2020-06
+MT607621,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/3/2020,2020-06
+MT608648,2020-06-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/3/2020,2020-06
+MT635269,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/3/2020,2020-06
+MT635270,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,5/27/2020,2020-05
+MT635271,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/3/2020,2020-06
+MT635272,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/3/2020,2020-06
+MT635328,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/3/2020,2020-06
+MT635339,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Vadodara",,Homo sapiens,,6/5/2020,2020-06
+MT635391,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Vadodara",,Homo sapiens,,6/5/2020,2020-06
+MT635392,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Vadodara",,Homo sapiens,,6/3/2020,2020-06
+MT635393,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Vadodara",,Homo sapiens,,6/3/2020,2020-06
+MT635397,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Vadodara",,Homo sapiens,,6/5/2020,2020-06
+MT635403,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Vadodara",,Homo sapiens,,6/5/2020,2020-06
+MT635404,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Vadodara",,Homo sapiens,,6/8/2020,2020-06
+MT635405,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Vadodara",,Homo sapiens,,6/8/2020,2020-06
+MT635406,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Vadodara",,Homo sapiens,,6/5/2020,2020-06
+MT635407,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Vadodara",,Homo sapiens,,6/8/2020,2020-06
+MT635408,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Vadodara",,Homo sapiens,,6/5/2020,2020-06
+MT635409,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,"India: Gujarat, Nadiad",,Homo sapiens,,6/8/2020,2020-06
+MT635410,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Vadodara",,Homo sapiens,,6/8/2020,2020-06
+MT635855,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Mahemdavad",,Homo sapiens,,6/8/2020,2020-06
+MT635856,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Dhanera",,Homo sapiens,,6/5/2020,2020-06
+MT635857,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Mahemdavad",,Homo sapiens,,6/8/2020,2020-06
+MT635858,2020-06-18T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Nadiad",,Homo sapiens,,6/8/2020,2020-06
+MT664117,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Palanpur,,Homo sapiens,,6/7/2020,2020-06
+MT664118,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Palanpur,,Homo sapiens,,6/7/2020,2020-06
+MT664143,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT664161,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT664169,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT664170,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT664172,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT664197,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT664201,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT664202,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT664203,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT664205,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT664209,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT664727,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT664729,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT664774,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29799,complete,India: Bharuch,,Homo sapiens,,6/5/2020,2020-06
+MT664793,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT664795,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT664796,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Vadodara,,Homo sapiens,,6/8/2020,2020-06
+MT664807,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Savli,,Homo sapiens,,6/5/2020,2020-06
+MT664808,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Savli,,Homo sapiens,,6/5/2020,2020-06
+MT664822,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Vadodara,,Homo sapiens,,6/8/2020,2020-06
+MT664986,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Vadodara,,Homo sapiens,,6/8/2020,2020-06
+MT664990,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Vadodara,,Homo sapiens,,6/8/2020,2020-06
+MT665006,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Vadodara,,Homo sapiens,,6/8/2020,2020-06
+MT665028,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Vadodara,,Homo sapiens,,6/8/2020,2020-06
+MT665970,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Kheda,,Homo sapiens,,6/8/2020,2020-06
+MT665972,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Kheda,,Homo sapiens,,6/8/2020,2020-06
+MT665974,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Mandvi,,Homo sapiens,,6/5/2020,2020-06
+MT666042,2020-06-25T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Bhuj,,Homo sapiens,,6/5/2020,2020-06
+MT669321,2020-06-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29771,complete,India: Palanpur,,Homo sapiens,,6/7/2020,2020-06
+MT669322,2020-06-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29771,complete,India: Palanpur,,Homo sapiens,,6/7/2020,2020-06
+MT675933,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Vadodara,,Homo sapiens,,6/8/2020,2020-06
+MT675937,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Vadodara,,Homo sapiens,,6/8/2020,2020-06
+MT675938,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Vadodara,,Homo sapiens,,6/8/2020,2020-06
+MT675939,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Vadodara,,Homo sapiens,,6/8/2020,2020-06
+MT675940,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Vadodara,,Homo sapiens,,6/8/2020,2020-06
+MT675941,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Vadodara,,Homo sapiens,,6/8/2020,2020-06
+MT675942,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29768,complete,India: Savali,,Homo sapiens,,6/8/2020,2020-06
+MT675943,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29768,complete,India: Savali,,Homo sapiens,,6/8/2020,2020-06
+MT675944,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/11/2020,2020-06
+MT675945,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/11/2020,2020-06
+MT675950,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Palanpur,,Homo sapiens,,6/12/2020,2020-06
+MT675951,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT675952,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Palanpur,,Homo sapiens,,6/12/2020,2020-06
+MT675954,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29787,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT675955,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29787,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT675957,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29773,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT675959,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29773,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT676013,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT676014,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT676288,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/12/2020,2020-06
+MT676289,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/12/2020,2020-06
+MT676290,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/12/2020,2020-06
+MT676291,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/12/2020,2020-06
+MT676366,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Bardoli,,Homo sapiens,,6/12/2020,2020-06
+MT676367,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Choryasi,,Homo sapiens,,6/12/2020,2020-06
+MT676368,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Kapadvanj,,Homo sapiens,,6/8/2020,2020-06
+MT676369,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Choryasi,,Homo sapiens,,6/12/2020,2020-06
+MT676388,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Bardoli,,Homo sapiens,,6/12/2020,2020-06
+MT676389,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/5/2020,2020-06
+MT676390,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/12/2020,2020-06
+MT676397,2020-06-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/2/2020,2020-06
+MT740436,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,6/11/2020,2020-06
+MT740438,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/8/2020,2020-06
+MT740441,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Himatnagar,,Homo sapiens,,6/14/2020,2020-06
+MT740444,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/14/2020,2020-06
+MT740483,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Prantij,,Homo sapiens,,6/19/2020,2020-06
+MT740485,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Talod,,Homo sapiens,,6/19/2020,2020-06
+MT740617,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,6/12/2020,2020-06
+MT740618,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,6/12/2020,2020-06
+MT740619,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Chuda,,Homo sapiens,,6/12/2020,2020-06
+MT740684,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Chuda,,Homo sapiens,,6/12/2020,2020-06
+MT740686,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Junagadh,,Homo sapiens,,6/12/2020,2020-06
+MT740688,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Junagadh,,Homo sapiens,,6/12/2020,2020-06
+MT740706,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Rajkot,,Homo sapiens,,6/12/2020,2020-06
+MT740708,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,6/12/2020,2020-06
+MT740717,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,6/12/2020,2020-06
+MT740723,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,6/12/2020,2020-06
+MT740724,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,6/12/2020,2020-06
+MT740820,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gondal,,Homo sapiens,,6/12/2020,2020-06
+MT740896,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gondal,,Homo sapiens,,6/12/2020,2020-06
+MT740923,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT741096,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Olpad,,Homo sapiens,,6/13/2020,2020-06
+MT741490,2020-07-10T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Olpad,,Homo sapiens,,6/13/2020,2020-06
+MT758193,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/5/2020,2020-06
+MT758197,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,6/12/2020,2020-06
+MT758202,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,6/12/2020,2020-06
+MT758203,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Modasa,,Homo sapiens,,6/14/2020,2020-06
+MT758213,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,6/12/2020,2020-06
+MT758215,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,6/12/2020,2020-06
+MT758240,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Jetpur,,Homo sapiens,,6/12/2020,2020-06
+MT758314,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Jetpur,,Homo sapiens,,6/12/2020,2020-06
+MT758346,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,6/12/2020,2020-06
+MT758375,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Rajkot,,Homo sapiens,,6/12/2020,2020-06
+MT758402,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT758421,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT758436,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT758439,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/11/2020,2020-06
+MT758471,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/12/2020,2020-06
+MT758683,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/12/2020,2020-06
+MT758701,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Choryasi,,Homo sapiens,,6/13/2020,2020-06
+MT759582,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/13/2020,2020-06
+MT759588,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/13/2020,2020-06
+MT759714,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/13/2020,2020-06
+MT759742,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/13/2020,2020-06
+MT759820,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/13/2020,2020-06
+MT759844,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/13/2020,2020-06
+MT760790,2020-07-15T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/13/2020,2020-06
+MT772210,2020-07-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Himatnagar,,Homo sapiens,,6/14/2020,2020-06
+MT772215,2020-07-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Choryasi,,Homo sapiens,,6/13/2020,2020-06
+MT772237,2020-07-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Choryasi,,Homo sapiens,,6/13/2020,2020-06
+MT772240,2020-07-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/13/2020,2020-06
+MT772252,2020-07-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/13/2020,2020-06
+MT772253,2020-07-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29791,complete,India: Surat,,Homo sapiens,,6/13/2020,2020-06
+MT772256,2020-07-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/13/2020,2020-06
+MT772271,2020-07-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Choryasi,,Homo sapiens,,6/13/2020,2020-06
+MT772293,2020-07-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Choryasi,,Homo sapiens,,6/13/2020,2020-06
+MT772294,2020-07-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/13/2020,2020-06
+MT772297,2020-07-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/13/2020,2020-06
+MT773133,2020-07-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/13/2020,2020-06
+MT773134,2020-07-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/13/2020,2020-06
+MT799967,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/12/2020,2020-06
+MT799969,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Dholka,,Homo sapiens,,6/18/2020,2020-06
+MT799970,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT799972,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/12/2020,2020-06
+MT799974,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT799976,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT799991,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/17/2020,2020-06
+MT799998,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ghogha,,Homo sapiens,,7/3/2020,2020-07
+MT800002,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/17/2020,2020-06
+MT800005,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Mahuva,,Homo sapiens,,7/4/2020,2020-07
+MT800010,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/17/2020,2020-06
+MT800013,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/5/2020,2020-06
+MT800015,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/17/2020,2020-06
+MT800021,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/17/2020,2020-06
+MT800024,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800029,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29791,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800030,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29791,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800031,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29797,complete,India: Surat,,Homo sapiens,,6/17/2020,2020-06
+MT800036,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29797,complete,India: Surat,,Homo sapiens,,6/17/2020,2020-06
+MT800041,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Kamrej,,Homo sapiens,,6/17/2020,2020-06
+MT800043,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800045,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29791,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800047,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Kamrej,,Homo sapiens,,6/17/2020,2020-06
+MT800050,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800105,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800282,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Chorasi,,Homo sapiens,,6/17/2020,2020-06
+MT800284,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800505,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Nadiad,,Homo sapiens,,6/8/2020,2020-06
+MT800515,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800542,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800753,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Kheda,,Homo sapiens,,6/8/2020,2020-06
+MT800758,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800794,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800816,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800818,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800820,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800845,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800873,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800895,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Kheda,,Homo sapiens,,6/8/2020,2020-06
+MT800896,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29771,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800923,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29785,complete,India: Daskroi,,Homo sapiens,,6/18/2020,2020-06
+MT800924,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Botad,,Homo sapiens,,6/28/2020,2020-06
+MT800925,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29785,complete,India: Daskroi,,Homo sapiens,,6/18/2020,2020-06
+MT800928,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29771,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800934,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Mandvi,,Homo sapiens,,6/20/2020,2020-06
+MT800936,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800939,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Mandvi,,Homo sapiens,,6/20/2020,2020-06
+MT800940,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800942,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800977,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800978,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Prantij,,Homo sapiens,,6/19/2020,2020-06
+MT800994,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Prantij,,Homo sapiens,,6/19/2020,2020-06
+MT800995,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800997,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT800999,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT801004,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT801006,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT801043,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT801048,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT801051,2020-07-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT806104,2020-07-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Surat,,Homo sapiens,,6/17/2020,2020-06
+MT806176,2020-07-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT806191,2020-07-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT806192,2020-07-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT808071,2020-07-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT940449,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT940451,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT940452,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/25/2020,2020-06
+MT940458,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Ahmedabad,,Homo sapiens,,6/25/2020,2020-06
+MT940459,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/25/2020,2020-06
+MT940460,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,7/27/2020,2020-07
+MT940461,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29768,complete,India: Ahmedabad,,Homo sapiens,,7/27/2020,2020-07
+MT940462,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29768,complete,India: Ahmedabad,,Homo sapiens,,7/27/2020,2020-07
+MT940464,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,7/27/2020,2020-07
+MT940472,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Adajan,,Homo sapiens,,6/12/2020,2020-06
+MT940473,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Adajan,,Homo sapiens,,6/12/2020,2020-06
+MT940474,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Mehsana,,Homo sapiens,,7/6/2020,2020-07
+MT940475,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Mehsana,,Homo sapiens,,7/6/2020,2020-07
+MT940476,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Mehsana,,Homo sapiens,,7/6/2020,2020-07
+MT940477,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Modasa,,Homo sapiens,,7/9/2020,2020-07
+MT940478,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Modasa,,Homo sapiens,,7/9/2020,2020-07
+MT940479,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29772,complete,India: Modasa,,Homo sapiens,,7/9/2020,2020-07
+MT940526,2020-08-29T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/25/2020,2020-06
+MT941047,2020-08-31T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT941052,2020-08-31T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT941055,2020-08-31T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT941056,2020-08-31T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT941059,2020-08-31T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Daskroi,,Homo sapiens,,6/18/2020,2020-06
+MT941060,2020-08-31T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Daskroi,,Homo sapiens,,6/18/2020,2020-06
+MT941061,2020-08-31T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Daskroi,,Homo sapiens,,6/18/2020,2020-06
+MT941067,2020-08-31T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT941272,2020-08-31T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT941274,2020-08-31T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29820,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT941276,2020-08-31T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT941403,2020-08-31T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29768,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT950187,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29768,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT950188,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29747,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT950189,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29764,complete,India: Ahmedabad,,Homo sapiens,,6/25/2020,2020-06
+MT950190,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/25/2020,2020-06
+MT950191,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/25/2020,2020-06
+MT950192,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/25/2020,2020-06
+MT950193,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/25/2020,2020-06
+MT950195,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/25/2020,2020-06
+MT950230,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Kalol,,Homo sapiens,,6/5/2020,2020-06
+MT950231,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Kalol,,Homo sapiens,,6/5/2020,2020-06
+MT950348,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/25/2020,2020-06
+MT950349,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/25/2020,2020-06
+MT950532,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT950684,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT950725,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT950761,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Daskroi,,Homo sapiens,,6/18/2020,2020-06
+MT951157,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Daskroi,,Homo sapiens,,6/18/2020,2020-06
+MT951170,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Dhandhuka,,Homo sapiens,,6/18/2020,2020-06
+MT951177,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Dhandhuka,,Homo sapiens,,6/18/2020,2020-06
+MT951181,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT951208,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India: Daskroi,,Homo sapiens,,6/18/2020,2020-06
+MT951392,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Dahegam,,Homo sapiens,,6/18/2020,2020-06
+MT951393,2020-09-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Dahegam,,Homo sapiens,,6/18/2020,2020-06
+MT953868,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT953874,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT953875,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT953876,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT953877,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Vadodara,,Homo sapiens,,6/15/2020,2020-06
+MT953887,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Patan,,Homo sapiens,,7/6/2020,2020-07
+MT953890,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Patan,,Homo sapiens,,7/6/2020,2020-07
+MT953891,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Khambhaliya,,Homo sapiens,,7/11/2020,2020-07
+MT953893,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Khambhaliya,,Homo sapiens,,7/11/2020,2020-07
+MT953894,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,6/18/2020,2020-06
+MT953895,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Mansa,,Homo sapiens,,6/18/2020,2020-06
+MT953925,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Gandhinagar,,Homo sapiens,,6/18/2020,2020-06
+MT953978,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MT953980,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29764,complete,India: Gandhinagar,,Homo sapiens,,6/18/2020,2020-06
+MT953981,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29764,complete,India: Gandhinagar,,Homo sapiens,,6/18/2020,2020-06
+MT953984,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29772,complete,India: Gandhinagar,,Homo sapiens,,6/22/2020,2020-06
+MT953991,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29764,complete,India: Gandhinagar,,Homo sapiens,,6/22/2020,2020-06
+MT953996,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29768,complete,India: Jamnagar,,Homo sapiens,,7/11/2020,2020-07
+MT954060,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29768,complete,India: Jamnagar,,Homo sapiens,,7/11/2020,2020-07
+MT954065,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Jamnagar,,Homo sapiens,,7/11/2020,2020-07
+MT954067,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Patan,,Homo sapiens,,7/6/2020,2020-07
+MT954069,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Patan,,Homo sapiens,,7/6/2020,2020-07
+MT954071,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Patan,,Homo sapiens,,7/6/2020,2020-07
+MT954072,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Patan,,Homo sapiens,,7/6/2020,2020-07
+MT954103,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Patan,,Homo sapiens,,7/6/2020,2020-07
+MT954414,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Patan,,Homo sapiens,,7/6/2020,2020-07
+MT954416,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Patan,,Homo sapiens,,7/6/2020,2020-07
+MT954593,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Patan,,Homo sapiens,,7/6/2020,2020-07
+MT954959,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Patan,,Homo sapiens,,7/6/2020,2020-07
+MT954971,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Patan,,Homo sapiens,,7/6/2020,2020-07
+MT955114,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Patan,,Homo sapiens,,7/6/2020,2020-07
+MT955326,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Patan,,Homo sapiens,,7/6/2020,2020-07
+MT955347,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Siddhpur,,Homo sapiens,,7/6/2020,2020-07
+MT955354,2020-09-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,India: Ahmedabad,,Homo sapiens,,6/25/2020,2020-06
+MT965767,2020-09-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Modasa,,Homo sapiens,,7/9/2020,2020-07
+MT965769,2020-09-04T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,India: Ahmedabad,,Homo sapiens,,6/18/2020,2020-06
+MW165854,2020-10-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29766,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/25/2020,2020-06
+MW165857,2020-10-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29766,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/25/2020,2020-06
+MW165861,2020-10-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,"India: Gujarat, Daskroi",,Homo sapiens,,6/25/2020,2020-06
+MW165862,2020-10-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,"India: Gujarat, Daskroi",,Homo sapiens,,6/25/2020,2020-06
+MW165865,2020-10-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29768,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/25/2020,2020-06
+MW165869,2020-10-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29768,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/25/2020,2020-06
+MW165872,2020-10-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/25/2020,2020-06
+MW165873,2020-10-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/25/2020,2020-06
+MW165876,2020-10-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/25/2020,2020-06
+MW165885,2020-10-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29768,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/25/2020,2020-06
+MW166214,2020-10-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29768,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/25/2020,2020-06
+MW166221,2020-10-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/25/2020,2020-06
+MW166349,2020-10-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/25/2020,2020-06
+MW166864,2020-10-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/25/2020,2020-06
+MW167078,2020-10-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/25/2020,2020-06
+MW167112,2020-10-26T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29763,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/25/2020,2020-06
+MW173245,2020-10-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Bodeli",,Homo sapiens,,7/18/2020,2020-07
+MW173250,2020-10-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Bodeli",,Homo sapiens,,7/18/2020,2020-07
+MW173252,2020-10-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Bodeli",,Homo sapiens,,7/18/2020,2020-07
+MW173253,2020-10-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Bodeli",,Homo sapiens,,7/18/2020,2020-07
+MW173254,2020-10-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Bodeli",,Homo sapiens,,7/18/2020,2020-07
+MW173298,2020-10-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Limkheda",,Homo sapiens,,7/18/2020,2020-07
+MW173460,2020-10-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29757,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/25/2020,2020-06
+MW173463,2020-10-27T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29757,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,6/25/2020,2020-06
+MW181797,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29813,complete,India,,Homo sapiens,,4/15/2020,2020-04
+MW181803,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29836,complete,India,,Homo sapiens,,4/23/2020,2020-04
+MW181804,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29814,complete,India,,Homo sapiens,,4/23/2020,2020-04
+MW181805,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29832,complete,India,,Homo sapiens,,4/23/2020,2020-04
+MW181806,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29812,complete,India,,Homo sapiens,,4/23/2020,2020-04
+MW181807,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29841,complete,India,,Homo sapiens,,4/23/2020,2020-04
+MW181811,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29837,complete,India,,Homo sapiens,,4/25/2020,2020-04
+MW181814,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29839,complete,India,,Homo sapiens,,4/29/2020,2020-04
+MW181828,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29798,complete,India,,Homo sapiens,,5/6/2020,2020-05
+MW181829,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29813,complete,India,,Homo sapiens,,5/9/2020,2020-05
+MW181831,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29839,complete,India,,Homo sapiens,,5/10/2020,2020-05
+MW181832,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29792,complete,India,,Homo sapiens,,5/10/2020,2020-05
+MW181833,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29840,complete,India,,Homo sapiens,,5/10/2020,2020-05
+MW181834,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29817,complete,India,,Homo sapiens,,5/8/2020,2020-05
+MW181835,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29795,complete,India,,Homo sapiens,,5/8/2020,2020-05
+MW181837,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29839,complete,India,,Homo sapiens,,5/10/2020,2020-05
+MW181838,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,India,,Homo sapiens,,5/10/2020,2020-05
+MW181839,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29834,complete,India,,Homo sapiens,,5/10/2020,2020-05
+MW181840,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29843,complete,India,,Homo sapiens,,5/10/2020,2020-05
+MW181843,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29798,complete,India,,Homo sapiens,,5/16/2020,2020-05
+MW181844,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29797,complete,India,,Homo sapiens,,5/16/2020,2020-05
+MW181845,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29815,complete,India,,Homo sapiens,,5/16/2020,2020-05
+MW181846,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29814,complete,India,,Homo sapiens,,5/16/2020,2020-05
+MW181847,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29810,complete,India,,Homo sapiens,,5/16/2020,2020-05
+MW181848,2020-10-28T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29815,complete,India,,Homo sapiens,,5/16/2020,2020-05
+MW191501,2020-10-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29798,complete,India,,Homo sapiens,,4/22/2020,2020-04
+MW191509,2020-10-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29816,complete,India,,Homo sapiens,,5/12/2020,2020-05
+MW191510,2020-10-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29812,complete,India,,Homo sapiens,,5/12/2020,2020-05
+MW191511,2020-10-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29799,complete,India,,Homo sapiens,,5/14/2020,2020-05
+MW191512,2020-10-30T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29837,complete,India,,Homo sapiens,,5/14/2020,2020-05
+MW193967,2020-11-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29839,complete,India,,Homo sapiens,,5/3/2020,2020-05
+MW242647,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Fatepura",,Homo sapiens,,7/18/2020,2020-07
+MW242653,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Dahod",,Homo sapiens,,7/18/2020,2020-07
+MW242663,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Dahod",,Homo sapiens,,7/18/2020,2020-07
+MW242666,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Kalyanpur",,Homo sapiens,,7/11/2020,2020-07
+MW242670,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,"India: Gujarat, Godhra",,Homo sapiens,,7/18/2020,2020-07
+MW242671,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Kalyanpur",,Homo sapiens,,7/11/2020,2020-07
+MW242689,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,"India: Gujarat, Godhra",,Homo sapiens,,7/18/2020,2020-07
+MW242691,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Sutrapada",,Homo sapiens,,7/14/2020,2020-07
+MW242692,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Sutrapada",,Homo sapiens,,7/14/2020,2020-07
+MW242704,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,"India: Gujarat, Sutrapada",,Homo sapiens,,7/14/2020,2020-07
+MW242705,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,"India: Gujarat, Sutrapada",,Homo sapiens,,7/14/2020,2020-07
+MW242706,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Veraval",,Homo sapiens,,7/14/2020,2020-07
+MW242708,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Veraval",,Homo sapiens,,7/14/2020,2020-07
+MW242778,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,"India: Gujarat, Talala",,Homo sapiens,,7/14/2020,2020-07
+MW242779,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29762,complete,"India: Gujarat, Talala",,Homo sapiens,,7/14/2020,2020-07
+MW242780,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Una",,Homo sapiens,,7/14/2020,2020-07
+MW242781,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Sutrapada",,Homo sapiens,,7/14/2020,2020-07
+MW242786,2020-11-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Sutrapada",,Homo sapiens,,7/14/2020,2020-07
+MW242950,2020-11-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,"India: Gujarat, Kodinar",,Homo sapiens,,7/14/2020,2020-07
+MW242960,2020-11-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29796,complete,"India: Gujarat, Kodinar",,Homo sapiens,,7/14/2020,2020-07
+MW242961,2020-11-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Mangrol",,Homo sapiens,,7/15/2020,2020-07
+MW242962,2020-11-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Junagadh",,Homo sapiens,,7/15/2020,2020-07
+MW242963,2020-11-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Mangrol",,Homo sapiens,,7/15/2020,2020-07
+MW242964,2020-11-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Mangrol",,Homo sapiens,,7/15/2020,2020-07
+MW242965,2020-11-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Mangrol",,Homo sapiens,,7/15/2020,2020-07
+MW242999,2020-11-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,9/3/2020,2020-09
+MW243003,2020-11-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Ahmedabad",,Homo sapiens,,9/1/2020,2020-09
+MW243586,2020-11-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29776,complete,"India: Gujarat, Mehsana",,Homo sapiens,,7/6/2020,2020-07
+MW243587,2020-11-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29776,complete,"India: Gujarat, Mehsana",,Homo sapiens,,7/6/2020,2020-07
+MW368700,2020-12-16T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29800,complete,"India: Gujarat, Jamkhambhaliya",,Homo sapiens,,7/11/2020,2020-07
+MW422884,2020-12-31T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29866,complete,India,,Homo sapiens,,4/29/2020,2020-04
+MW425563,2021-01-01T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29849,complete,India,,Homo sapiens,,2020-09,2020-09
+MW425837,2021-01-01T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29854,complete,India,,Homo sapiens,,2020-09,2020-09
+MW555280,2021-02-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29813,complete,India,,Homo sapiens,,6/30/2020,2020-06
+MW555317,2021-02-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29892,complete,India,,Homo sapiens,,6/30/2020,2020-06
+MW555320,2021-02-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29891,complete,India,,Homo sapiens,,6/30/2020,2020-06
+MW555576,2021-02-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29899,complete,India,,Homo sapiens,,6/30/2020,2020-06
+MW555597,2021-02-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29888,complete,India,,Homo sapiens,,6/30/2020,2020-06
+MW555786,2021-02-02T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29889,complete,India,,Homo sapiens,,6/30/2020,2020-06
+MW559533,2021-02-03T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29807,complete,India,,Homo sapiens,oronasopharynx,5/7/2020,2020-05
+MW590718,2021-02-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Ahmedabad,,Homo sapiens,,11/20/2020,2020-11
+MW590723,2021-02-11T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Ahmedabad,,Homo sapiens,,11/19/2020,2020-11
+MW595911,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Ahmedabad,,Homo sapiens,,12/3/2020,2020-12
+MW595912,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Ahmedabad,,Homo sapiens,,11/10/2020,2020-11
+MW595914,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Ahmedabad,,Homo sapiens,,11/10/2020,2020-11
+MW595915,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Ahmedabad,,Homo sapiens,,11/10/2020,2020-11
+MW595916,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Ahmedabad,,Homo sapiens,,11/10/2020,2020-11
+MW595918,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Ahmedabad,,Homo sapiens,,11/24/2020,2020-11
+MW595919,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Anand,,Homo sapiens,,12/22/2020,2020-12
+MW595923,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Anand,,Homo sapiens,,12/22/2020,2020-12
+MW595948,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Ahmedabad,,Homo sapiens,,11/10/2020,2020-11
+MW595950,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Vadodara,,Homo sapiens,,12/23/2020,2020-12
+MW595982,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Vadodara,,Homo sapiens,,12/23/2020,2020-12
+MW595991,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Ahmedabad,,Homo sapiens,,12/24/2020,2020-12
+MW595997,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Ahmedabad,,Homo sapiens,,12/24/2020,2020-12
+MW595999,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Ahmedabad,,Homo sapiens,,12/24/2020,2020-12
+MW596237,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Ahmedabad,,Homo sapiens,,12/24/2020,2020-12
+MW596415,2021-02-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Vadodara,,Homo sapiens,,12/25/2020,2020-12
+MW600363,2021-02-16T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Vadodara,,Homo sapiens,,12/24/2020,2020-12
+MW600436,2021-02-16T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Vadodara,,Homo sapiens,,12/24/2020,2020-12
+MW600453,2021-02-16T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Vadodara,,Homo sapiens,,12/24/2020,2020-12
+MW600455,2021-02-16T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Ahmedabad,,Homo sapiens,,12/26/2020,2020-12
+MW600456,2021-02-16T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Ahmedabad,,Homo sapiens,,12/26/2020,2020-12
+MW600461,2021-02-16T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Vadodara,,Homo sapiens,,12/29/2020,2020-12
+MW600463,2021-02-16T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Vadodara,,Homo sapiens,,12/29/2020,2020-12
+MW600627,2021-02-16T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Vadodara,,Homo sapiens,,12/24/2020,2020-12
+MW600654,2021-02-16T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29782,complete,India: Ahmedabad,,Homo sapiens,,12/30/2020,2020-12
+MW645476,2021-02-22T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29837,complete,"India: Maharashtra, Mumbai",,Homo sapiens,oronasopharynx,9/9/2020,2020-09
